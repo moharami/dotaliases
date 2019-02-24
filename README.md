@@ -10,7 +10,7 @@ This repository is an easy to install project that contains a growing list
 of aliases for different frameworks and tools that works on any *nix system.
 
 The project was started with passion by the
-[Algotech Software Engineering Team](https://www.algotech.solutions).
+[Algotech Software Engineering Team](https://www.algotech.solutions)
 
 ## Aliases list
 
