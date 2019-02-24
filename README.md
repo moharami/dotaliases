@@ -51,7 +51,7 @@ The project was started with passion by the
 Clone it into `.aliases` folder in your home directory:
 ```bash
 cd ~
-git clone https://github.com/algotech/dotaliases.git .aliases
+git clone https://github.com/moharami/dotaliases.git .aliases
 ```
 
 Enable bash aliases for new terminals: add to `~/.bash_profile` or `~/.profile`
