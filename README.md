@@ -40,6 +40,9 @@ The project was started with passion by the
 #### Ruby:
   - [Ruby on Rails aliases](doc/bash/ruby_on_rails_aliases.md) - web application framework
 
+#### Docker:
+  - [Docker aliases](doc/bash/docker_aliases.md) - docker command
+
 ### Git aliases:
   - You can find the documentation for git aliases [here](doc/git/git_aliases.md). Those are different than the above described bash aliases.
 
