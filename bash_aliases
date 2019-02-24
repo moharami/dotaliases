@@ -19,7 +19,8 @@ for FILE_PREFIX in  apache \
                     loopback \
                     gulp \
                     ruby_on_rails \
-                    yarn
+                    yarn \
+                    docker
 do
   source $ALIASES_HOME/.aliases/bash/${FILE_PREFIX}_aliases
 done
