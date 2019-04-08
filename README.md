@@ -66,7 +66,7 @@ source ~/.aliases/bash_aliases
 
 
 ## add to .bash_aliases ( in new terminal it's work)
-ln ~/.aliases/bash_aliases ~/.bash_aliases
+```ln ~/.aliases/bash_aliases ~/.bash_aliases```
 
 ## Using with vagrant
 - clone the repository to a folder of your choice
