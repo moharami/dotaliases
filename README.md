@@ -64,6 +64,10 @@ Enable bash aliases in the current opened terminal by running the command:
 source ~/.aliases/bash_aliases
 ```
 
+
+## add to .bash_aliases ( in new terminal it's work)
+ln ~/.aliases/bash_aliases ~/.bash_aliases
+
 ## Using with vagrant
 - clone the repository to a folder of your choice
 - copy `.aliases` to vagrant shared folders (do not forget to add it to `.gitignore` as well)
