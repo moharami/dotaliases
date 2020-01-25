@@ -50,6 +50,10 @@ The project was started with passion by the
 
 Clone it into `.aliases` folder in your home directory:
 ```bash
+#remove this folder if alreade exists.
+rm -rf ~/.aliases
+
+
 cd ~
 git clone https://github.com/moharami/dotaliases.git .aliases
 ```
