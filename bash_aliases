@@ -20,6 +20,7 @@ for FILE_PREFIX in  apache \
                     gulp \
                     ruby_on_rails \
                     yarn \
+                    server \
                     docker
 do
   source $ALIASES_HOME/.aliases/bash/${FILE_PREFIX}_aliases
