@@ -52,7 +52,7 @@ Clone it into `.aliases` folder in your home directory:
 ```bash
 #remove this folder if alreade exists.
 rm -rf ~/.aliases
-
+rm -f ~/.bash_aliases 
 
 cd ~
 git clone https://github.com/moharami/dotaliases.git .aliases
