@@ -58,7 +58,7 @@ cd ~
 git clone https://github.com/moharami/dotaliases.git .aliases
 ```
 
-Enable bash aliases for new terminals: add to `~/.bash_profile` or `~/.profile`
+Enable bash aliases for new terminals: add to `~/.bash_profile` or `~/.profile` or `~/.zshrc`
 ```bash
 source ~/.aliases/bash_aliases
 ```

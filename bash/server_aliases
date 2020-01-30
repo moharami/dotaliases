@@ -6,4 +6,4 @@
 alias dld="cd project/Behandam4/FoodLists/foodlist/storage/app/public/download/"
 
 # download from youtube
-alias dly="docker run --rm -v $(pwd):/media kijart/youtube-dl $1"
+alias dly='docker run --rm -v $(pwd):/media kijart/youtube-dl "$1"'
